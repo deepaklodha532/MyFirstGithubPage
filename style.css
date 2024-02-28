@@ -1,0 +1,36 @@
+H1{
+    color: green;
+    /* text-align: center; */
+    margin-top: 150px;
+    padding: 0;
+
+}
+h2{
+    color: red;
+    text-align: center;
+}
+
+.box{
+    width: 200px;
+    height:200px;
+    border-radius: 100%;
+    margin-left:40%;
+    border:2px solid black;
+    z-index: 2;
+    overflow: hidden;
+    padding-left: 10px;
+    padding-top: 0;
+    /* padding-bottom: 100px; */
+    box-sizing: border-box;
+
+}
+H1 div
+img{
+     width: 200px;
+     margin-bottom: 100px;
+    z-index: 1;
+}
+
+.text{
+    margin-left:42%;
+}
